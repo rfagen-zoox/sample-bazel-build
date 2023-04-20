@@ -1,7 +1,7 @@
 load("@python3_deps//:requirements.bzl", "requirement")
 load("//tools/python:mypy.bzl", "mypy_binary", "mypy_library", "mypy_test")
 
-# see https://docs.google.com/document/d/1ErtMB0T00rtaZbrErpsncZFRTocHB7kTHbk7cdJ0jWA/edit#heading=h.w3tmce5894mf
+# see https://bazelbuild.slack.com/archives/CA31HN1T3/p1681836821518969?thread_ts=1681836640.166589&cid=CA31HN1T3
 # for description of these test cases
 
 filegroup(
